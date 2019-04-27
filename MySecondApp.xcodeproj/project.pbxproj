@@ -216,6 +216,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = E5B35C1A1F861B4B00540E88;
 			productRefGroup = E5B35C241F861B4B00540E88 /* Products */;
